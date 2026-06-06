@@ -6,8 +6,8 @@ Building clean, user-centric interfaces and documenting the journey from pixels 
 ---
 
 ## 🚀 About Me
-- 🎓 **Education:** Final Year B.E. in Computer Science Engineering at COET.
-- 🎨 **Creative Alter-Ego:** Tech content creator under **Atharv the Creator** / **@nik._journal**, sharing insights on desk aesthetics, productivity setups, and developer life.
+- 🎓 **Education:** Final Year B.E. in Computer Science Engineering at ACET.
+- 🎨 **Creative Alter-Ego:** Tech content creator / **@nik._journal**, sharing insights on desk aesthetics, productivity setups, and developer life.
 - 📊 **Current Focus:** Deep diving into **Data Science** and sharpening my backend data structures.
 - 💼 **Looking for:** Impactful Summer/Fall 2026 internships in Frontend Engineering, UI/UX Development, or Data Analytics.
 
